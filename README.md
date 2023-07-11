@@ -8,3 +8,9 @@ The purpose of these guidelines is to help aid everyone who is working on respat
 2) make sure to make a comment if there are any issues discovered in the code
 3) give issues their correct tags
 4) Dont merege two request without notifying me about it
+# Instilation 
+
+To work on this project you will need to make sure that you are using the following 
+
+ - Framework: Bootstrap
+ - programming language: Python 
