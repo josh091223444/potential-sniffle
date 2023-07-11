@@ -1,0 +1,12 @@
+name: sample-workflow
+on: push 
+jobs: 
+ explore-github-workflow:
+  runs-on: ubuntu-latest
+  steps:
+    - run: echo "The job was triggered by ${{ github.event_name  }} event."
+    - run: echo " The name of this branch is ${{ github.ref }} and repository is ${{ github.repsitory }}."
+    - run: echo " The job is to commit a file to the repository ${{ gitcommit }}"
+    - name: check out repository code 
+    - run: echo" This job status is ${{ job.status }}"
+
