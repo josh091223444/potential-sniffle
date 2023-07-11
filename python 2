@@ -1,0 +1,3 @@
+print("Hello do you want to guess the number")
+if yes input number: 
+  else print "see you later":
