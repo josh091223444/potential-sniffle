@@ -12,5 +12,5 @@ The purpose of these guidelines is to help aid everyone who is working on respat
 
 To work on this project you will need to make sure that you are using the following 
 
- - Framework: Bootstrap
- - programming language: Python 
+ - Framework: Bootstrap 4 
+ - programming language: Python 2 
